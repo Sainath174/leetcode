@@ -12,3 +12,5 @@ class Solution(object):
         r = list(map(int,str(l)))
         return r
       
+Footer
+
